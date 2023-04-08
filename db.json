@@ -1,0 +1,451 @@
+{
+  "users": [
+    {
+      "email": "admin@learnwithsumit.com",
+      "password": "$2a$10$/TDPCTU28mFzKnSsW2pHSu512mpMKxLf8eiPbcTFLSNL87tbZBp3W",
+      "role": "admin",
+      "name": "LWS Admin",
+      "id": 1
+    },
+    {
+      "email": "saad.hasan@learnwithsumit.com",
+      "password": "$2a$10$4iJEmSkM1Dq6WMRb0SuJeeic1SEB9TrH3gw5IT441Adox/ZZXj2Ae",
+      "role": "student",
+      "name": "Saad Hasan",
+      "id": 2
+    },
+    {
+      "email": "akash.ahmed@learnwithsumit.com",
+      "password": "$2a$10$TNsYpL6ffKBrupNNvdJlleJlgIkp1C1xQJCbiv7HAl5Ggs.kucie2",
+      "role": "student",
+      "name": "Akash Ahmed",
+      "id": 3
+    },
+    {
+      "email": "md.salahuddin@learnwithsumit.com",
+      "password": "$2a$10$dcWjzIi4mLAERlWE4nfJW.1/mvC9FXqZU8A2V1rPlsqIrP3kWa8PG",
+      "role": "student",
+      "name": "Mohammad Salahuddin",
+      "id": 4
+    },
+    {
+      "email": "ferdous.shohag@learnwithsumit.com",
+      "password": "$2a$10$IZ6eXNauYSqMhl38Wc46texV2vjGZz.Zl66j7hrnW6ZDSDcMlPWeu",
+      "role": "student",
+      "name": "Ferdous",
+      "id": 5
+    },
+    {
+      "email": "riyadh.vai@learnwithsumit.com",
+      "password": "$2a$10$e4XPY48UpqmAj8teZ2je8.qd5AEk6hWm5PQwDoJsCsE91qlDPJx1G",
+      "role": "student",
+      "name": "Riyadh",
+      "id": 6
+    },
+    {
+      "email": "arif.almas@learnwithsumit.com",
+      "password": "$2a$10$NN4pXB4tBMw.ySrMDPMymepSGDdcvKzx/RjNCrdNTENOFVLWCWGOi",
+      "role": "student",
+      "name": "Arif",
+      "id": 7
+    },
+    {
+      "email": "sk.rahmatali6792@gmail.com",
+      "password": "$2a$10$TsnqBJlzWlmU9ZfDjI3fX.G21nTUjVHT2YrAKSnELQVRvEubNPfJ6",
+      "name": "Rahmat Ali",
+      "role": "student",
+      "id": 8
+    },
+    {
+      "email": "sk.rahmataghhli6792@gmail.com",
+      "password": "$2a$10$It4PBAzGXmU.33fMa3qe0OZbURJaXwacLTCwxGDAzpzEEMK2zmMqu",
+      "name": "dfdg",
+      "role": "student",
+      "id": 9
+    },
+    {
+      "email": "sk.rahmaktali6792@gmail.com",
+      "password": "$2a$10$SW06NsGlsBghvZk6bpv/Sef/.oPXRBSkm/MTyk4JRXF.2K2msN6lG",
+      "name": "Rahmat Ali",
+      "role": "student",
+      "id": 10
+    },
+    {
+      "email": "so.rahmatali@gmail.com",
+      "password": "$2a$10$5MFMOfe/Q4mu5ZQO53SZ2OHLdcNxo/oABRYND8pqowbF9AHBOM73G",
+      "name": "Sagor Ali",
+      "role": "student",
+      "id": 11
+    },
+    {
+      "email": "so.rahmattttali@gmail.com",
+      "password": "$2a$10$f3pyUGW57lZAsxSHUoEycu4RMhol2c6SGmrZyQmhLLXSGoyR0lABy",
+      "name": "Mottakia",
+      "role": "student",
+      "id": 12
+    },
+    {
+      "email": "rahmat@gmail.com",
+      "password": "$2a$10$N3laauRcWaAZSNwzuaO15.VwbRd0i1by2z5bChz9RIiAQBuowFD5C",
+      "name": "RAsadasdsa",
+      "role": "student",
+      "id": 13
+    },
+    {
+      "email": "dfgfdg@gmail.com",
+      "password": "$2a$10$PsZLWYuQU85m/lfvz4kyR.R8zai2c7xuUCY6S0ClxWrMV.VBQ9.vS",
+      "name": "dfdg",
+      "role": "student",
+      "id": 14
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "url": "https://www.youtube.com/embed/dD9O8DnIBj4",
+      "views": "51.2K",
+      "duration": "5:30",
+      "createdAt": "2023-01-15T15:17:01.727Z"
+    },
+    {
+      "id": 2,
+      "title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "description": "JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla Tutorial \nIn this video, I have shown 8 more JavaScript pro tips that will make a JavaScript Developer's life easier.",
+      "url": "https://www.youtube.com/embed/E9_R88eKcBM",
+      "views": "91.2K",
+      "duration": "31:30",
+      "createdAt": "2023-02-24T17:59:00.000Z"
+    },
+    {
+      "title": "Things I wish I knew as a Junior Web Developer - Sumit Saha - BASIS SoftExpo 2023",
+      "description": "BASIS SoftExpo 23 Developer Conference - এ কথা বলার সুযোগ হয়েছিলো। Learn with Sumit এর প্রতি লার্নার ভাইদের ভালবাসায় পুরো সেশনটি পরিণত হয়েছিলো, Learn with Sumit follower দের মিলন মেলায়। দেশের বিভিন্ন প্রান্ত থেকে ডেভেলপার ভাই-বোনরা এসেছিলেন আমার কথা শুনতে। সকলের ভালবাসায় আমি ধন্য! যারা সেশনটি সরাসরি দেখতে পারেন নি, তাদের জন্য রেকোর্ডেড ভার্সনটি আপলোড করছি। সেশনটি লাইভ রেকোর্ড করেছেন DhakaLive.tv এর চৌকস টিম। ডেভেলপার কমিউনিটির জনপ্রিয় মেন্টরদের সাথে এই সেশনে অংশগ্রহণ করার সুযোগ করে দেয়ার জন্য BASIS কে জানাই আন্তরিক ধন্যবাদ।",
+      "url": "https://www.youtube.com/embed/56zUkaXJnUA",
+      "views": "11K",
+      "duration": "11:20",
+      "createdAt": "2023-04-04T14:00:56.336Z",
+      "id": 3
+    },
+    {
+      "title": "Story of Failure & Success - Anisul Islam & Sumit Saha - Talk with Sumit Episode 1444",
+      "description": "In this 13th Episode of Talk with Sumit, Anisul Islam vai, a popular teacher & programming enthusiast, shared his journey as a Software Engineer and Content Creator and how he created an imapct in Bangla Programming Community.",
+      "url": "https://www.youtube.com/embed/UZLVuxn2EJo",
+      "views": "34.44K",
+      "duration": "1:33:10",
+      "createdAt": "2023-04-04T14:32:49.260Z",
+      "id": 4
+    }
+  ],
+  "assignments": [
+    {
+      "id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "video_id": 3,
+      "video_title": "Things I wish I knew as a Junior Web Developer - Sumit Saha - BASIS SoftExpo 2023",
+      "totalMark": 100
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 2,
+      "question": "Which of the following is an example of a situation where you would use the Debounce function?",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "options": [
+        {
+          "id": 1,
+          "option": "A search bar where the results are displayed as you type.",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "A button that performs an action when clicked.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "An animation that plays when a user hovers over an element.",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "All of the above.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the difference between null and undefined in JavaScript?",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "options": [
+        {
+          "id": 1,
+          "option": "null represents the intentional absence of any object value.",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "option": "undefined represents the uninitialized value of a variable or property.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "Same thing",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "option": "No Difference",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "test22156241352",
+      "video_id": 4,
+      "video_title": "Story of Failure & Success - Anisul Islam & Sumit Saha - Talk with Sumit Episode 1444",
+      "options": [
+        {
+          "id": 1,
+          "option": "test1",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "option": "test2",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "option": "test2",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "option": "test4",
+          "isCorrect": false
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "assignmentMark": [
+    {
+      "assignment_id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2023-04-07T09:58:43.967Z",
+      "totalMark": 100,
+      "mark": 100,
+      "repo_link": "dfdg",
+      "status": "published",
+      "id": 1
+    },
+    {
+      "student_id": 8,
+      "student_name": "Rahmat Ali",
+      "assignment_id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2023-04-07T11:11:09.854Z",
+      "totalMark": 100,
+      "mark": 99,
+      "repo_link": "https://github.com/Learn-with-Sumit/assignment-1",
+      "status": "published",
+      "id": 2
+    },
+    {
+      "student_id": 14,
+      "student_name": "dfdg",
+      "assignment_id": 2,
+      "title": "Assignment 2 - Implement Best Practices",
+      "createdAt": "2023-04-07T11:30:09.593Z",
+      "totalMark": 100,
+      "mark": 0,
+      "repo_link": "dfdg",
+      "status": "pending",
+      "id": 3
+    }
+  ],
+  "quizMark": [
+    {
+      "student_id": 8,
+      "student_name": "Rahmat Ali",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 2,
+      "totalCorrect": 2,
+      "totalWrong": 0,
+      "totalMark": 10,
+      "mark": 10,
+      "id": 1
+    },
+    {
+      "student_id": 8,
+      "student_name": "Rahmat Ali",
+      "video_id": 4,
+      "video_title": "Story of Failure & Success - Anisul Islam & Sumit Saha - Talk with Sumit Episode 1444",
+      "totalQuiz": 1,
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "totalMark": 5,
+      "mark": 5,
+      "id": 2
+    },
+    {
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "video_id": 4,
+      "video_title": "Story of Failure & Success - Anisul Islam & Sumit Saha - Talk with Sumit Episode 1444",
+      "totalQuiz": 1,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "totalMark": 5,
+      "mark": 0,
+      "id": 3
+    },
+    {
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 1,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "totalMark": 5,
+      "mark": 0,
+      "id": 4
+    },
+    {
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "totalQuiz": 1,
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "totalMark": 5,
+      "mark": 5,
+      "id": 5
+    },
+    {
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 1,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "totalMark": 5,
+      "mark": 0,
+      "id": 6
+    },
+    {
+      "student_id": 22,
+      "student_name": "sasaaasasasasas",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 1,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "totalMark": 5,
+      "mark": 0,
+      "id": 7
+    },
+    {
+      "student_id": 22,
+      "student_name": "sasaaasasasasas",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "totalQuiz": 1,
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "totalMark": 5,
+      "mark": 5,
+      "id": 8
+    },
+    {
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "video_id": 5,
+      "video_title": "Learn with Sumit 40K Celebration Grand Tech Adda",
+      "totalQuiz": 1,
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "totalMark": 5,
+      "mark": 5,
+      "id": 9
+    },
+    {
+      "student_id": 3,
+      "student_name": "Akash Ahmed",
+      "video_id": 6,
+      "video_title": "fdgfdg",
+      "totalQuiz": 1,
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "totalMark": 5,
+      "mark": 5,
+      "id": 10
+    },
+    {
+      "student_id": 9,
+      "student_name": "dfdg",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 1,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "totalMark": 5,
+      "mark": 0,
+      "id": 11
+    },
+    {
+      "student_id": 8,
+      "student_name": "Rahmat Ali",
+      "video_id": 5,
+      "video_title": "Learn with Sumit 40K Celebration Grand Tech Adda",
+      "totalQuiz": 1,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "totalMark": 5,
+      "mark": 0,
+      "id": 12
+    },
+    {
+      "student_id": 12,
+      "student_name": "Mottakia",
+      "video_id": 2,
+      "video_title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
+      "totalQuiz": 1,
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "totalMark": 5,
+      "mark": 5,
+      "id": 13
+    },
+    {
+      "student_id": 11,
+      "student_name": "Sagor Ali",
+      "video_id": 1,
+      "video_title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "totalQuiz": 1,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "totalMark": 5,
+      "mark": 0,
+      "id": 14
+    },
+    {
+      "student_id": 11,
+      "student_name": "Sagor Ali",
+      "video_id": 4,
+      "video_title": "Story of Failure & Success - Anisul Islam & Sumit Saha - Talk with Sumit Episode 1444",
+      "totalQuiz": 1,
+      "totalCorrect": 0,
+      "totalWrong": 1,
+      "totalMark": 5,
+      "mark": 0,
+      "id": 15
+    }
+  ]
+}
