@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Md-Irfan-FullStackDeveloper/test_api#readme",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
     "json-server": "^0.17.1",
